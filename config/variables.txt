@@ -281,6 +281,7 @@ v3_credit_flow_navigation.enabled=true
 v3_credit_flow_navigation=true
 valentines.enabled=false
 zoom.enabled=1
+notification.items.enabled=true
 landing.view.common.etchingcolor=000000
 landing.view.common.etchingposition=top
 landing.view.common.textcolor=ffffff
