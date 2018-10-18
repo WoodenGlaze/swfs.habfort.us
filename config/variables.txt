@@ -183,6 +183,7 @@ monsterplants.composting.enabled=true
 monsterplants.enabled=true
 monsterplants.game.enabled=false
 multi.item.trading.enabled=true
+notification.furni_placement_error={"display":"BUBBLE"}
 navigator.2014.personalized.navigator=true
 navigator.colorlimit.orange=80
 navigator.colorlimit.red=92
